@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><cos>
+    <komponenty>
+        <komponent>
+            <innecos name="czescpierwsza">czosnek</innecos>
+        </komponent>
+        <komponent>
+            <innecos name="czescdruga">rdzen</innecos>
+        </komponent>
+    </komponenty>
+</cos>
